@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Maksim Golovchits
+HTML CSS Basics: https://www.codecademy.com/users/makssandi/achievements
